@@ -1,0 +1,61 @@
+h1 {
+  color: blanchedalmond;
+  text-decoration: underline;
+}
+div {
+  background-color: black;
+}
+p{
+  color: white;
+  font-size: 22px;
+}
+.bananas{
+  background-color: blue;
+}
+#random{
+  background-color: white;
+}
+
+body {
+  text-align: center;
+  background:url("http://www.allwhitebackground.com/images/5/Black-Background-Pictures.png");
+  background-size: cover;
+  background-position: center;
+  color: grey;
+  font-family: new times roman;
+} 
+input {
+  border: 0px;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="search"] {
+  background: blue;
+  color: black;
+}
+
+.bg-black{
+  background-color: black;
+}
+
+ul{
+  display: inline-block;
+}
+li{
+  text-align: left;
+}
+.instagram{
+  height: 50px;
+  vertical-align: middle;
+}
+.logo{
+  height: 50px;
+  float: left;
+}
+.fahad-link{
+  float: left;
+  vertical-align: center;
+  color: orange;
+  font-size: 27px;
+  text-decoration: none;
+}
